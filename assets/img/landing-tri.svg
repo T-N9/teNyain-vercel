@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1366" height="361" viewBox="0 0 1366 361">
+  <g id="landing-tri" transform="translate(0 -407)">
+    <path id="Left_Tri" data-name="Left Tri" d="M0,0,630.382,361H0Z" transform="translate(0 407)" fill="#fff"/>
+    <path id="Right_Tri" data-name="Right Tri" d="M918.191,0,0,361H918.191Z" transform="translate(447.809 407)" fill="#fff"/>
+  </g>
+</svg>

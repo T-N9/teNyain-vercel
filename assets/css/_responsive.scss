@@ -1,0 +1,164 @@
+@media screen and (min-width:2500px){
+    body{
+        #mainContent{
+            width: 1920px;
+            margin: auto;
+        }
+    }
+}
+@media screen and (min-width:1920px){
+    body #mainContent .landing-section::after {
+        top: 45px;
+    }
+    body #mainContent .landing-section--img-wrapper {
+        width: 7%;
+    }
+}
+@media screen and (max-width:970px){
+    body #mainContent .aboutme-section {
+        padding: 50px;
+        background-image: linear-gradient(to top, #F2AB3F,#363A77,#F26843,#CC2F36);
+    }
+}
+@media screen and (max-width:1024px) {
+    #wrapper{
+        grid-template-columns: repeat(1, minmax(0, 1fr));
+    }
+    #skillGraph{
+        justify-content: center;
+        padding: 20px 0;
+    }
+}
+@media screen and (max-width:768px){
+    #tn-nav{
+        #nav-group{
+            width: 95% !important;
+        }
+    }
+    body #mainContent .landing-section--img {
+        bottom: 25px;
+    }
+    body #mainContent .landing-section--img-wrapper {
+        width: 15%;
+        left: 45%;
+    }
+    body #mainContent .aboutme-section--content .caption-wrapper p {
+        margin-bottom: 70px;
+        width: 70%;
+    }
+    body #mainContent .aboutme-section--content .content-icons .tn-icon {
+        margin: 40px;
+    }
+    body #mainContent .aboutme-section--wrapper {
+        box-shadow:none;
+    }
+    #skillGraph{
+        justify-content: center;
+        padding: 20px 0;
+    }
+    body #mainContent .work-section .work-wrapper .work-card {
+        width: 95%;
+    }
+    body #mainContent .quote-section {
+        background-position: -190px bottom;
+        background-size: 200%;
+    }
+    body #mainContent .quote-section .quote-wrapper {
+        width: 65%;
+    }
+    body #mainContent .contact-section {
+        background-size: 200%;
+        background-position:-190px top;
+    }
+    body #mainContent .contact-section .social-wrapper {
+        width: 80%;
+    }
+}
+@media screen and (max-width:576px){
+    body #mainContent .landing-section::after {
+        top: 10px;
+    }
+    #tn-nav #nav-group {
+        width: 100% !important;
+    }
+    body #mainContent .landing-section--img {
+        bottom: 18px;
+    }
+    body #mainContent .landing-section--img-wrapper {
+        width: 25%;
+    }
+    body #mainContent header {
+        padding: 10px 30px;
+        text-align: center;
+        height: 60px;
+    }
+    body #mainContent .aboutme-section {
+        padding: 5px;
+    }
+    body #mainContent .aboutme-section--content .caption-wrapper p {
+        margin-bottom: 40px;
+        width: 95%;
+    }
+    body #mainContent .aboutme-section--content {
+        width: 100%;
+    }
+    body #mainContent .skill-section #wrapper #skillGraph-sm .skill {
+        margin: 10px 0px;
+    }
+    body #mainContent .skill-section {
+        background-color: white;
+        padding: 25px 5px;
+    }
+    body #mainContent .skill-section #wrapper #skillGraph-sm .skill .skill-img {
+        width: 45px;
+    }
+    body #mainContent .skill-section #wrapper #skillGraph-sm .skill--measure {
+        margin: 20px 10px;
+    }
+    .has-tooltip:hover .tooltip {
+        visibility: visible;
+        z-index: 100;
+        top: 20px;
+        right: -100px;
+
+    }
+    body #mainContent .quote-section .quote-wrapper {
+        width: 85%;
+    }
+    body #mainContent .quote-section .quote-wrapper p {
+        font-size: 28px;
+        width: 100%;
+    }
+    body #mainContent .quote-section {
+        background-position: -390px bottom;
+        background-size: 415%;
+    }
+    body #mainContent .contact-section {
+        background-position: -390px top;
+        background-size: 415%;
+    }
+    body #mainContent .quote-section .quote-wrapper img {
+        left: 31%;
+    }
+    .contact-section{
+        .h1-compress{
+            font-size: 40px;
+        }
+    }
+}
+@media screen and (max-width:375px){
+}
+@media screen and (max-width:320px){
+    .contact-section{
+        height: 120vh !important;
+        .content-wrapper{
+            height: 80%;
+        }
+        .footer-section{
+            position: absolute;
+            left: 0;
+            bottom: 0;
+
+        }
+    }
+}

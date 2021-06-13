@@ -1,0 +1,278 @@
+@keyframes shadows {
+    from{
+        opacity: 0;
+        transform: translate(-88.771 -25.398);
+    }
+    to{
+        opacity: 1;
+        transform: translate(-84.771 -25.398);
+    }
+}
+@keyframes mainMe {
+    0%{
+        visibility: hidden;
+    }
+    100%{
+        visibility: visible;
+    }
+}
+@keyframes gl-1 {
+    0%{
+        opacity: 1;
+        left: -50px;
+    }
+    20%{
+        opacity: 0;
+    }
+    40%{
+        opacity: 0;
+        left: 50px;
+    }
+    60%{
+        opacity: 1;
+    }
+    90%{
+        opacity: 0;
+    }
+    100%{
+        opacity: 0;
+        left: 0;
+    }
+}
+@keyframes glitches {
+    0%{
+        opacity: 0;
+    }
+    50%{
+        opacity: 1;
+    }
+    100%{
+        opacity: 0;
+    }
+}
+@keyframes tn-icon-left {
+    from{
+        transform: translateX(-100px);
+        opacity: 0;
+        visibility: hidden;
+    }
+    to{
+        transform: translateX(0);
+        visibility: visible;
+        opacity: 1;
+    }
+}
+@keyframes tn-icon-right {
+    from{
+        transform: translateX(100px);
+        visibility: hidden;
+        opacity: 0;
+    }
+    to{
+        transform: translateX(0);
+        visibility: visible;
+        opacity: 1;
+    }
+}
+@keyframes html-p {
+    from{
+        height: 0;
+    }
+    to{
+        height: 95%;
+    }
+}
+@keyframes css-p {
+    from{
+        height: 0;
+    }
+    to{
+        height: 90%;
+    }
+}
+@keyframes js-p {
+    from{
+        height: 0;
+    }
+    to{
+        height: 40%;
+    }
+}
+@keyframes bootstrap-p {
+    from{
+        height: 0;
+    }
+    to{
+        height: 80%;
+    }
+}
+@keyframes tailwindcss-p {
+    from{
+        height: 0;
+    }
+    to{
+        height: 60%;
+    }
+}
+@keyframes react-p {
+    from{
+        height: 0;
+    }
+    to{
+        height: 20%;
+    }
+}
+@keyframes xd-p {
+    from{
+        height: 0;
+    }
+    to{
+        height: 45%;
+    }
+}
+@keyframes ai-p {
+    from{
+        height: 0;
+    }
+    to{
+        height: 30%;
+    }
+}
+@keyframes singing-p {
+    from{
+        height: 0;
+    }
+    to{
+        height: 50%;
+    }
+}
+@keyframes guitaring-p {
+    from{
+        height: 0;
+    }
+    to{
+        height: 40%;
+    }
+}
+@keyframes presentation-p {
+    from{
+        height: 0;
+    }
+    to{
+        height: 50%;
+    }
+}
+
+@keyframes sm-html-p {
+    from{
+       width: 0;
+    }
+    to{
+       width: 95%;
+    }
+}
+@keyframes sm-css-p {
+    from{
+       width: 0;
+    }
+    to{
+       width: 90%;
+    }
+}
+@keyframes sm-js-p {
+    from{
+       width: 0;
+    }
+    to{
+       width: 40%;
+    }
+}
+@keyframes sm-bootstrap-p {
+    from{
+       width: 0;
+    }
+    to{
+       width: 80%;
+    }
+}
+@keyframes sm-tailwindcss-p {
+    from{
+       width: 0;
+    }
+    to{
+       width: 60%;
+    }
+}
+@keyframes sm-react-p {
+    from{
+       width: 0;
+    }
+    to{
+       width: 20%;
+    }
+}
+@keyframes sm-xd-p {
+    from{
+       width: 0;
+    }
+    to{
+       width: 45%;
+    }
+}
+@keyframes sm-ai-p {
+    from{
+       width: 0;
+    }
+    to{
+       width: 30%;
+    }
+}
+@keyframes sm-singing-p {
+    from{
+       width: 0;
+    }
+    to{
+       width: 50%;
+    }
+}
+@keyframes sm-guitaring-p {
+    from{
+       width: 0;
+    }
+    to{
+       width: 40%;
+    }
+}
+@keyframes sm-presentation-p {
+    from{
+       width: 0;
+    }
+    to{
+       width: 50%;
+    }
+}
+@keyframes rotate-in {
+    0%{
+        opacity: 0;
+        transform: rotate(-45deg);
+    }
+    // 50%{
+    //     opacity: 1;
+    //     transform: rotate(45deg);
+    // }
+    100%{
+        transform: rotate(0deg);
+    }
+    
+}
+@keyframes fade-in {
+    0%{
+        opacity: 0;
+        transform: translateY(50px);
+    }
+    100%{
+        opacity: 1;
+        transform: translateY(0);
+    }
+    
+}

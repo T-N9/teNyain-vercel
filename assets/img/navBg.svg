@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="390" height="844" viewBox="0 0 390 844">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_11" data-name="Rectangle 11" width="390" height="844" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_10" data-name="Rectangle 10" width="390" height="173" transform="translate(0 685.965)" fill="rgba(255,255,255,0.4)" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="navBg" clip-path="url(#clip-path)">
+    <g id="Texture">
+      <g id="Nav_Background" data-name="Nav Background" transform="translate(0 -14.965)" clip-path="url(#clip-path-2)">
+        <ellipse id="Ellipse_10" data-name="Ellipse 10" cx="241" cy="167" rx="241" ry="167" transform="translate(-46 692.965)" fill="#f5f5f7"/>
+      </g>
+      <g id="Ellipse_11" data-name="Ellipse 11" transform="matrix(0.951, 0.309, -0.309, 0.951, 364.335, 518.311)" fill="none" stroke="#f5f5f7" stroke-width="15">
+        <ellipse cx="107.5" cy="166" rx="107.5" ry="166" stroke="none"/>
+        <ellipse cx="107.5" cy="166" rx="100" ry="158.5" fill="none"/>
+      </g>
+      <g id="Ellipse_15" data-name="Ellipse 15" transform="matrix(0.951, 0.309, -0.309, 0.951, 271.112, -208)" fill="none" stroke="#f5f5f7" stroke-width="15">
+        <ellipse cx="107.5" cy="166" rx="107.5" ry="166" stroke="none"/>
+        <ellipse cx="107.5" cy="166" rx="100" ry="158.5" fill="none"/>
+      </g>
+      <g id="Ellipse_12" data-name="Ellipse 12" transform="matrix(-0.951, 0.309, -0.309, -0.951, 128.259, 834.061)" fill="none" stroke="#f5f5f7" stroke-width="15">
+        <ellipse cx="107.5" cy="166" rx="107.5" ry="166" stroke="none"/>
+        <ellipse cx="107.5" cy="166" rx="100" ry="158.5" fill="none"/>
+      </g>
+      <g id="Ellipse_16" data-name="Ellipse 16" transform="matrix(-0.951, 0.309, -0.309, -0.951, 221.482, 107.751)" fill="none" stroke="#f5f5f7" stroke-width="15">
+        <ellipse cx="107.5" cy="166" rx="107.5" ry="166" stroke="none"/>
+        <ellipse cx="107.5" cy="166" rx="100" ry="158.5" fill="none"/>
+      </g>
+      <ellipse id="Ellipse_13" data-name="Ellipse 13" cx="58.5" cy="82.5" rx="58.5" ry="82.5" transform="translate(33 818)" fill="#1d1d1f"/>
+      <ellipse id="Ellipse_14" data-name="Ellipse 14" cx="58.5" cy="82.5" rx="58.5" ry="82.5" transform="translate(241 818)" fill="#1d1d1f"/>
+    </g>
+  </g>
+</svg>

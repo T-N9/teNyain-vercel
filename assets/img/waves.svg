@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1272.75" height="899.918" viewBox="0 0 1272.75 899.918">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#cc2f36"/>
+      <stop offset="1" stop-color="#d33d3e"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f26843"/>
+      <stop offset="1" stop-color="#f27a57"/>
+    </linearGradient>
+  </defs>
+  <g id="waves" transform="translate(-48.604 -823.192)">
+    <path id="am_left_wave" data-name="am left wave" d="M1092.679,812s-93.377,136.517-34.4,261.021,134.332,180.2,96.654,276.856-52.422,180.2-34.4,234.262,91.739,127.78,91.739,127.78H1318.75V812Z" transform="translate(2.604 11.192)" fill="url(#linear-gradient)"/>
+    <path id="am_tight_wave" data-name="am tight wave" d="M1264.816,812s93.377,136.517,34.4,261.021-134.332,180.2-96.654,276.856,52.422,180.2,34.4,234.262-91.739,127.78-91.739,127.78H1038.744V812Z" transform="translate(-990.14 11.192)" fill="url(#linear-gradient-2)"/>
+  </g>
+</svg>

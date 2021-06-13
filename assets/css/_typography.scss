@@ -1,0 +1,31 @@
+h1{
+    font-family: Roboto-Bold;
+    margin-bottom: 6px;
+    font-size: 56px;
+    line-height: 1.07;
+}
+h2{
+    font-family: Roboto-Medium;
+    margin-bottom: 6px;
+    font-size: 28px;
+}
+p{
+    font-family: Lato-B;
+    font-size: 17px;
+    letter-spacing: 0.5px;
+}
+.tn-font-xsm{
+    font-size: 14px;
+    font-family: Lato-R;
+}
+@media screen and (max-width:576px){
+    h1{
+        font-size: 48px;
+    }
+    h2{
+        font-size: 22px;
+    }
+    // p{
+    //     font-size: 6px;
+    // }
+}
