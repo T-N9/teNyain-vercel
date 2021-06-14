@@ -67,10 +67,11 @@ body{
         display: inline-flex;
         justify-content: center;
         align-items: center;
-        background-image: url(../img/navBg.svg);
+        // background-image: url(../img/navBg.svg);
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
+        border-right: 0.1px dotted white;
         ul{
             height: 50%;
             width: 80%;
@@ -280,7 +281,7 @@ body{
                                 bottom: 0;
                                 left: 0;
                                 width: 100%;
-                                background-color: #363A77;
+                                background-image: linear-gradient(to top, #363A7740 ,#363A77);
                                 border-radius: 50px;
                             }
                         }
@@ -378,7 +379,7 @@ body{
                                 bottom: 0;
                                 left: 0;
                                 height: 100%;
-                                background-color: #363A77;
+                                background-image: linear-gradient(to right, #363A7740 ,#363A77);
                                 border-radius: 50px;
                             }
                         }
@@ -585,6 +586,9 @@ body{
             .social-wrapper{
                 margin: 50px auto;
                 width: 50%;
+                .contact-logo{
+                    animation: contact-logo 0.5s ease-in;
+                }
                 a{
                    margin: auto;
                 }
